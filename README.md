@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z490M Gaming X, Intel Core i5 10400, AMD Radeon RX 6600 XT
 
+![Portifolio](https://github.com/user-attachments/assets/53015570-0be5-4f08-832f-a8addc3f7ca0)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.1)
